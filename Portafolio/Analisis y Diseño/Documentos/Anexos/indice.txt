@@ -1,0 +1,19 @@
+Archivo 1: Corte 1 Entrega Grupo 1
+Descripción:
+Este documento detalla las etapas iniciales del proyecto, incluyendo el análisis del problema, el uso del framework AEIOU, guiones y resúmenes de entrevistas, mapas de empatía, y una descripción preliminar del problema a resolver.
+Etapa: Se utilizó en la etapa de descubrimiento y definición, sirviendo como base para entender los desafíos del cliente y definir los requisitos iniciales.
+
+Archivo 2: Corte 2 Grupo 1
+Descripción:
+Este archivo documenta las etapas de ideación y modelado del sistema. Incluye la generación de ideas, diagramas de casos de uso, y la definición de historias de usuario específicas para cada rol.
+Etapa: Corresponde a la etapa de diseño conceptual y refinamiento de las necesidades del cliente, ayudando a detallar los requisitos y casos de uso.
+
+Archivo 3: Corte 3
+Descripción:
+Se enfoca en el diseño y prototipado del sistema, incluyendo observaciones de entrevistas, iteraciones del prototipo, y el análisis final de requisitos funcionales. También incluye diagramas detallados de clases y paquetes.
+Etapa: Se utilizó en la etapa de diseño técnico, aportando detalles críticos para la implementación del sistema.
+
+Archivo 4: Análisis de Grupo
+Descripción:
+Este documento sintetiza los principales desafíos operativos de DivinoSeas, proponiendo soluciones basadas en las etapas de investigación y análisis inicial.
+Etapa: Apoya tanto la etapa de análisis inicial como el desarrollo de estrategias para la solución del problema.
