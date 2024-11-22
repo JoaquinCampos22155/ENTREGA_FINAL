@@ -1,0 +1,23 @@
+# Guía para Configurar el Proyecto Divino Seas con Docker
+
+##Aviso: La api tiene que estar activa para el funcionamiento de la applicación. (npm start  y npm run dev)
+
+```bash
+# 1. Construir la imagen de Docker
+# Desde la carpeta mysql dentro del directorio db, ejecuta el siguiente comando:
+docker build -t divinoseas .
+
+# 2. Ejecutar el contenedor
+# Crea y lanza un contenedor llamado divinoseas_container:
+docker run --name divinoseas_container -d -p 13021:3306 divinoseas
+# 3. Conectarse a la base de datos con MySQL Workbench
+
+# Usa la siguiente configuración para conectarte a la base de datos:
+# Host: 127.0.0.1 (localhost)
+# Usuario: DivinoSeas_user
+# Contraseña: DivinoSeas_password
+
+# 4. Correr la API
+# Navega al directorio del código fuente y ejecuta el siguiente comando:
+npm start
+
